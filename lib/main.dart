@@ -8,8 +8,10 @@ class MarimbaApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        backgroundColor: Colors.black,
         body: SafeArea(
           child: Column(
+          
             children: [
               teclaMarimba(Color(0xFF009788), 1),
               teclaMarimba(Color(0xFF2296F3), 2),
