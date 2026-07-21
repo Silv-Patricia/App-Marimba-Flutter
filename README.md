@@ -4,7 +4,7 @@ Um app simples que funciona como uma marimba (Teclado gigante, parecido com um p
 # 📱 Visual do Aplicativo
 
 <p align="center">
-  <img src="assets/Screenshot" width="280" alt="Tela">
+  <img src="assets/Screenshot/Marimba.jpeg" width="280" alt="Tela">
 </p>
 
 ### 📺 Demonstração do App
